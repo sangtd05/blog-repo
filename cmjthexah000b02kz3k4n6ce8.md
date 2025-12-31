@@ -3,6 +3,7 @@ title: "Monitorong - Application , Pino và Loki Integration"
 datePublished: Wed Dec 31 2025 03:54:03 GMT+0000 (Coordinated Universal Time)
 cuid: cmjthexah000b02kz3k4n6ce8
 slug: monitorong-application-pino-va-loki-integration
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1767153276885/403ee6fe-2cde-4d2d-a296-bb05ed8060e3.png
 tags: devops
 
 ---
